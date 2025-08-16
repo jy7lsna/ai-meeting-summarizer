@@ -1,4 +1,4 @@
-# Meeting Notes Summarizer - Backend
+# Meeting Notes Summarizer
 
 A Node.js/Express backend service that provides AI-powered meeting transcript summarization and email sharing capabilities.
 
